@@ -132,5 +132,5 @@ environments:
                 defaultTransactionIsolation: 2 # TRANSACTION_READ_COMMITTED
 
 #Uncomment the lines below to change the port number from default 8080
-#server:
-#    port: 8090
+server:
+   port: 8090
